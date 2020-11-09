@@ -9,7 +9,7 @@ All inbound traffic must have a varifiable trusted path. User's
 must know this organization will monitor search and seize any 
 communication outside of our principles. Users should have no 
 expectatioins to privacy while at the workplace or pn the work 
-system.These measures are set to ensure secure, private, and
+system. These measures are set to ensure secure, private, and
 reliable computing experiances for the employees, customers 
 and business partners.
 | Version | Supported          |
